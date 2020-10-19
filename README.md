@@ -21,9 +21,9 @@ Some notes:
 	(28 ** 2-20 ** 2) cells will remain on the field equal to zero
 
 Some variables Used:
-:Button_type - hint button (Displays the color of the acting side)
-:globalType - current player index
-:last_action - the coordinate of the last move
-:TypeCells - field element values (0 - empty cell; 1 - zero; 2 - cross)
-:BaseCells - list with cells
-:Win - winner index (the designation rules are the same as in TypeCells)
+ - Button_type - hint button (Displays the color of the acting side)
+ - globalType - current player index
+ - last_action - the coordinate of the last move
+ - TypeCells - field element values (0 - empty cell; 1 - zero; 2 - cross)
+ - BaseCells - list with cells
+ - Win - winner index (the designation rules are the same as in TypeCells)
